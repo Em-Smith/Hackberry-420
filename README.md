@@ -1,4 +1,3 @@
 # Hackberry 420
-This is the Github repository for CRT 420
- Advanced Prototyping class
-hello world
+This is an electronic etch-A-Sketch that features
+multicolor sketching, and a maze game.
